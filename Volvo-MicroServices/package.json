@@ -1,0 +1,9 @@
+{
+  "name": "volvo-micro-services",
+  "version": "0.0.0",
+  "description": "Volvo-MicroServices",
+  "main": "server.js",
+  "author": {
+    "name": "andor"
+  }
+}
