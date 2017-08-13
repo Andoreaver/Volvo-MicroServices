@@ -29,6 +29,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="server.js" />
+    <Content Include="msdl.json" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>

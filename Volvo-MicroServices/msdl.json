@@ -1,0 +1,16 @@
+{
+  "Services": [
+    {
+      "id": 1,
+      "name": "cars",
+      "port": 9101,
+      "data": { "vehicles": [ "XC60", "S60", "S40" ] }
+    },
+    {
+      "id": 2,
+      "name": "exterior",
+      "port": 9102,
+      "data": { "colors": [ "White", "Silver", "Black" ] }
+    }
+  ]
+}
